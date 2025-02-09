@@ -3,7 +3,8 @@
 This is my first-ever personal website, created when I was a student—before I had any knowledge of JavaScript. It represents my early steps into web development and serves as a reminder of how much I've grown since then.  
 
 ## 🌟 Screenshot  
-![screen1](https://github.com/user-attachments/assets/f6ee1684-b338-45c4-a102-3f06b651cbc7)
+![screen3](https://github.com/user-attachments/assets/d8db5737-e55d-4812-b7b9-325b763e4450)
+
 
 
 ## 🔥 Why This Project Matters  
